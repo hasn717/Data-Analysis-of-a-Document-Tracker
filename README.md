@@ -1,5 +1,6 @@
 # F21SC CW2 issuu
 
+![image](https://user-images.githubusercontent.com/6077548/218247666-1fb3c74c-9494-496d-9e4d-2e2f314fe9eb.png)
 
 
 ## Getting started

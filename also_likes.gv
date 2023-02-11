@@ -1,0 +1,126 @@
+digraph {
+	Readers [color=white]
+	Documents [color=white]
+	Readers -> Documents [label="Size: 600k"]
+	dae9 [fillcolor="#3ab125" style=filled]
+	e42c [shape=box]
+	3720 [fillcolor="/blues5/3" shape=circle style=filled]
+	e42c -> 3720
+	e42c [shape=box]
+	a908 [fillcolor="/blues5/3" shape=circle style=filled]
+	e42c -> a908
+	e42c [shape=box]
+	"63fd" [fillcolor="/blues5/4" shape=circle style=filled]
+	e42c -> "63fd"
+	e42c [shape=box]
+	"0ad1" [fillcolor="/blues5/3" shape=circle style=filled]
+	e42c -> "0ad1"
+	e42c [shape=box]
+	"0c41" [fillcolor="/blues5/3" shape=circle style=filled]
+	e42c -> "0c41"
+	e42c [shape=box]
+	2008 [fillcolor="/blues5/3" shape=circle style=filled]
+	e42c -> 2008
+	e42c [shape=box]
+	"02e1" [fillcolor="/blues5/4" shape=circle style=filled]
+	e42c -> "02e1"
+	e42c [shape=box]
+	e7ae [fillcolor="/blues5/2" shape=circle style=filled]
+	e42c -> e7ae
+	e42c [shape=box]
+	4982 [fillcolor="/blues5/3" shape=circle style=filled]
+	e42c -> 4982
+	e42c [shape=box]
+	4390 [fillcolor="/blues5/4" shape=circle style=filled]
+	e42c -> 4390
+	e42c [shape=box]
+	dae9 [shape=circle]
+	e42c -> dae9
+	e42c [shape=box]
+	"0d73" [fillcolor="/blues5/2" shape=circle style=filled]
+	e42c -> "0d73"
+	e42c [shape=box]
+	5352 [fillcolor="/blues5/4" shape=circle style=filled]
+	e42c -> 5352
+	e42c [shape=box]
+	a6d8 [fillcolor="/blues5/4" shape=circle style=filled]
+	e42c -> a6d8
+	e42c [shape=box]
+	"3b04" [fillcolor="/blues5/3" shape=circle style=filled]
+	e42c -> "3b04"
+	e42c [shape=box]
+	"228a" [fillcolor="/blues5/4" shape=circle style=filled]
+	e42c -> "228a"
+	"557e" [shape=box]
+	dae9 [shape=circle]
+	"557e" -> dae9
+	"557e" [shape=box]
+	"63fd" [fillcolor="/blues5/4" shape=circle style=filled]
+	"557e" -> "63fd"
+	"557e" [shape=box]
+	"3b04" [fillcolor="/blues5/3" shape=circle style=filled]
+	"557e" -> "3b04"
+	"557e" [shape=box]
+	"02e1" [fillcolor="/blues5/4" shape=circle style=filled]
+	"557e" -> "02e1"
+	"557e" [shape=box]
+	"0c41" [fillcolor="/blues5/3" shape=circle style=filled]
+	"557e" -> "0c41"
+	"557e" [shape=box]
+	4390 [fillcolor="/blues5/4" shape=circle style=filled]
+	"557e" -> 4390
+	"557e" [shape=box]
+	a6d8 [fillcolor="/blues5/4" shape=circle style=filled]
+	"557e" -> a6d8
+	"557e" [shape=box]
+	"63ce" [fillcolor="/blues5/3" shape=circle style=filled]
+	"557e" -> "63ce"
+	"2fd1" [shape=box]
+	"02e1" [fillcolor="/blues5/4" shape=circle style=filled]
+	"2fd1" -> "02e1"
+	"2fd1" [shape=box]
+	"228a" [fillcolor="/blues5/4" shape=circle style=filled]
+	"2fd1" -> "228a"
+	"2fd1" [shape=box]
+	dae9 [shape=circle]
+	"2fd1" -> dae9
+	"2fd1" [shape=box]
+	5352 [fillcolor="/blues5/4" shape=circle style=filled]
+	"2fd1" -> 5352
+	"2fd1" [shape=box]
+	4982 [fillcolor="/blues5/3" shape=circle style=filled]
+	"2fd1" -> 4982
+	"2fd1" [shape=box]
+	4390 [fillcolor="/blues5/4" shape=circle style=filled]
+	"2fd1" -> 4390
+	"2fd1" [shape=box]
+	2008 [fillcolor="/blues5/3" shape=circle style=filled]
+	"2fd1" -> 2008
+	"1d31" [shape=box]
+	a908 [fillcolor="/blues5/3" shape=circle style=filled]
+	"1d31" -> a908
+	"1d31" [shape=box]
+	dae9 [shape=circle]
+	"1d31" -> dae9
+	"1d31" [shape=box]
+	"63ce" [fillcolor="/blues5/3" shape=circle style=filled]
+	"1d31" -> "63ce"
+	"1d31" [shape=box]
+	"63fd" [fillcolor="/blues5/4" shape=circle style=filled]
+	"1d31" -> "63fd"
+	"1d31" [shape=box]
+	a6d8 [fillcolor="/blues5/4" shape=circle style=filled]
+	"1d31" -> a6d8
+	"1d31" [shape=box]
+	"228a" [fillcolor="/blues5/4" shape=circle style=filled]
+	"1d31" -> "228a"
+	"1d31" [shape=box]
+	3720 [fillcolor="/blues5/3" shape=circle style=filled]
+	"1d31" -> 3720
+	"1d31" [shape=box]
+	"0ad1" [fillcolor="/blues5/3" shape=circle style=filled]
+	"1d31" -> "0ad1"
+	"1d31" [shape=box]
+	5352 [fillcolor="/blues5/4" shape=circle style=filled]
+	"1d31" -> 5352
+}

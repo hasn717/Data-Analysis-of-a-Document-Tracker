@@ -3,6 +3,25 @@
 ![image](https://user-images.githubusercontent.com/6077548/218247666-1fb3c74c-9494-496d-9e4d-2e2f314fe9eb.png)
 
 
+Requirements Checklist
+All requirements are met as the below table
+TASK	Status
+GUI	Done
+CLI – Command line interface	Done
+Histogram plotting	Done
+Histogram of countries given a document id	Done
+Histogram of continents given a document id	Done
+Histogram of user agents 	Done
+Histogram of browsers 	Done
+Show top 10 readers 	Done
+Show top 10 documents 	Done
+Function that takes a user id and returns all documents that user has read	Done
+Passing a sorting function to also likes	Done
+Graph representation of liked documents – using graphviz	Done
+Validation of user inputs	Done
+Standalone executable 	Done
+
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
